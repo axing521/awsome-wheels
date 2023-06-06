@@ -1,0 +1,17 @@
+{
+  "name": "vue3ts",
+  "version": "1.0.0",
+  "description": "My Vite-Vue3-TS template",
+  "author": "caijr3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axing521/awsome-wheels.git"
+  },
+  "keywords": ["vite", "template"],
+  "dependencies": {
+    "vue": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0"
+  }
+}
